@@ -1,7 +1,7 @@
 ### Hi there, I am Ng Zi Xing 👋
 
 
-🔭 I’m currently studing in ** Bachelor of Data Engineering in University Teknology Malaysia  🚀
+🔭 I’m currently studing in ######## Bachelor of Data Engineering in University Teknology Malaysia  🚀
 
 <br>
 
@@ -14,13 +14,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngzxing&label=Profile%20views&color=0e75b6&style=flat" alt="ngzxing" /> </p>
 <br>
-
-%%- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...%%
 
 
 ## 📫 How to reach me: 
