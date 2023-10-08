@@ -1,7 +1,7 @@
 ### Hi there, I am Ng Zi Xing 👋
 
 
-🔭 I’m currently studing in ######## Bachelor of Data Engineering in University Teknology Malaysia  🚀
+🔭 I’m currently studing in ###### Bachelor of Data Engineering in University Teknology Malaysia  🚀
 
 <br>
 
