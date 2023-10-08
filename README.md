@@ -24,11 +24,10 @@
 
 
 ## 📫 How to reach me: 
-<span>
-<a href="https://www.linkedin.com/in/ng-zi-xing-a3a466270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-	
+<p>
+<a href="https://www.linkedin.com/in/ng-zi-xing-a3a466270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>	
 <a href="https://www.youtube.com/channel/UCZtuPhHy7c4j3MAibZe5WGw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ng zi xing" height="30" width="40" /></a> 
-</span>
+</p>
 
 <br> <br>
 
